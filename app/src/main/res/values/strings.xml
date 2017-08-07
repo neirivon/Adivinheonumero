@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Adivinhe o numero</string>
+    <string name="msg1">Digite um número</string>
+    <string name="msg2">Adivinhe o número</string>
+    <string name="Reiniciar">reiniciar</string>
+</resources>
